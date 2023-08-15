@@ -1,0 +1,5 @@
+resources:
+  - "./pod.yaml"
+  - "service.yaml"
+  - "ingress.yaml"
+namespace: default
